@@ -1,2 +1,0 @@
-# parcial1estructura
-parcial
